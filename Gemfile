@@ -30,6 +30,7 @@ gem 'carrierwave', '~> 1.2'
 
 gem 'stripe'
 gem 'devise'
+gem 'pundit'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
